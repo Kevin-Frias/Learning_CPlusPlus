@@ -1,0 +1,8 @@
+# ninja log v6
+4	668	1721559443617138914	CMakeFiles/C_.dir/First_Program.cpp.o	c2ebb2246b7c5e7c
+6	472	1721560103765305789	CMakeFiles/C_.dir/Test_file.cpp.o	dba8a2eccec20223
+3	71	1721560997932582578	build.ninja	297ad02a1d452d2a
+0	581	1721561004479596606	CMakeFiles/First_Program.dir/First_Program.cpp.o	f65f4a1362f4b3f6
+583	736	1721561005062194053	First_Program	a914d487778e5ff8
+2	382	1721561024276792021	CMakeFiles/Test_file.dir/Test_file.cpp.o	175677f98042c991
+383	426	1721561024657671479	Test_file	9aa6b72a967bd90b
