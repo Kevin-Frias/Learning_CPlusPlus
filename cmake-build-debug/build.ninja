@@ -103,66 +103,221 @@ build Test_file: CXX_EXECUTABLE_LINKER__Test_file_Debug CMakeFiles/Test_file.dir
   TARGET_PDB = Test_file.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target new_target
+# Object build statements for EXECUTABLE target Section4_29
 
 
 #############################################
-# Order-only phony target for new_target
+# Order-only phony target for Section4_29
 
-build cmake_object_order_depends_target_new_target: phony || CMakeFiles/new_target.dir
+build cmake_object_order_depends_target_Section4_29: phony || CMakeFiles/Section4_29.dir
 
-build CMakeFiles/new_target.dir/Compiler_Errors.cpp.o: CXX_COMPILER__new_target_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Compiler_Errors.cpp || cmake_object_order_depends_target_new_target
-  DEP_FILE = CMakeFiles/new_target.dir/Compiler_Errors.cpp.o.d
+build CMakeFiles/Section4_29.dir/Compiler_Errors.cpp.o: CXX_COMPILER__Section4_29_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Compiler_Errors.cpp || cmake_object_order_depends_target_Section4_29
+  DEP_FILE = CMakeFiles/Section4_29.dir/Compiler_Errors.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/new_target.dir
-  OBJECT_FILE_DIR = CMakeFiles/new_target.dir
+  OBJECT_DIR = CMakeFiles/Section4_29.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section4_29.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target new_target
+# Link build statements for EXECUTABLE target Section4_29
 
 
 #############################################
-# Link the executable new_target
+# Link the executable Section4_29
 
-build new_target: CXX_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/Compiler_Errors.cpp.o
+build Section4_29: CXX_EXECUTABLE_LINKER__Section4_29_Debug CMakeFiles/Section4_29.dir/Compiler_Errors.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
-  OBJECT_DIR = CMakeFiles/new_target.dir
+  OBJECT_DIR = CMakeFiles/Section4_29.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = new_target
-  TARGET_PDB = new_target.dbg
+  TARGET_FILE = Section4_29
+  TARGET_PDB = Section4_29.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target new_target1
+# Object build statements for EXECUTABLE target Section4_35
 
 
 #############################################
-# Order-only phony target for new_target1
+# Order-only phony target for Section4_35
 
-build cmake_object_order_depends_target_new_target1: phony || CMakeFiles/new_target1.dir
+build cmake_object_order_depends_target_Section4_35: phony || CMakeFiles/Section4_35.dir
 
-build CMakeFiles/new_target1.dir/Section_Challenge1.cpp.o: CXX_COMPILER__new_target1_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_Challenge1.cpp || cmake_object_order_depends_target_new_target1
-  DEP_FILE = CMakeFiles/new_target1.dir/Section_Challenge1.cpp.o.d
+build CMakeFiles/Section4_35.dir/Section_Challenge1.cpp.o: CXX_COMPILER__Section4_35_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_Challenge1.cpp || cmake_object_order_depends_target_Section4_35
+  DEP_FILE = CMakeFiles/Section4_35.dir/Section_Challenge1.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/new_target1.dir
-  OBJECT_FILE_DIR = CMakeFiles/new_target1.dir
+  OBJECT_DIR = CMakeFiles/Section4_35.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section4_35.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target new_target1
+# Link build statements for EXECUTABLE target Section4_35
 
 
 #############################################
-# Link the executable new_target1
+# Link the executable Section4_35
 
-build new_target1: CXX_EXECUTABLE_LINKER__new_target1_Debug CMakeFiles/new_target1.dir/Section_Challenge1.cpp.o
+build Section4_35: CXX_EXECUTABLE_LINKER__Section4_35_Debug CMakeFiles/Section4_35.dir/Section_Challenge1.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
-  OBJECT_DIR = CMakeFiles/new_target1.dir
+  OBJECT_DIR = CMakeFiles/Section4_35.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = new_target1
-  TARGET_PDB = new_target1.dbg
+  TARGET_FILE = Section4_35
+  TARGET_PDB = Section4_35.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section5_42
+
+
+#############################################
+# Order-only phony target for Section5_42
+
+build cmake_object_order_depends_target_Section5_42: phony || CMakeFiles/Section5_42.dir
+
+build CMakeFiles/Section5_42.dir/InputandOutput.cpp.o: CXX_COMPILER__Section5_42_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/InputandOutput.cpp || cmake_object_order_depends_target_Section5_42
+  DEP_FILE = CMakeFiles/Section5_42.dir/InputandOutput.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section5_42.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section5_42.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section5_42
+
+
+#############################################
+# Link the executable Section5_42
+
+build Section5_42: CXX_EXECUTABLE_LINKER__Section5_42_Debug CMakeFiles/Section5_42.dir/InputandOutput.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section5_42.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section5_42
+  TARGET_PDB = Section5_42.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section5_Exercise
+
+
+#############################################
+# Order-only phony target for Section5_Exercise
+
+build cmake_object_order_depends_target_Section5_Exercise: phony || CMakeFiles/Section5_Exercise.dir
+
+build CMakeFiles/Section5_Exercise.dir/Coding_Exercise1.cpp.o: CXX_COMPILER__Section5_Exercise_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Coding_Exercise1.cpp || cmake_object_order_depends_target_Section5_Exercise
+  DEP_FILE = CMakeFiles/Section5_Exercise.dir/Coding_Exercise1.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section5_Exercise.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section5_Exercise.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section5_Exercise
+
+
+#############################################
+# Link the executable Section5_Exercise
+
+build Section5_Exercise: CXX_EXECUTABLE_LINKER__Section5_Exercise_Debug CMakeFiles/Section5_Exercise.dir/Coding_Exercise1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section5_Exercise.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section5_Exercise
+  TARGET_PDB = Section5_Exercise.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section5_Exercise2
+
+
+#############################################
+# Order-only phony target for Section5_Exercise2
+
+build cmake_object_order_depends_target_Section5_Exercise2: phony || CMakeFiles/Section5_Exercise2.dir
+
+build CMakeFiles/Section5_Exercise2.dir/Coding_Exercie2.cpp.o: CXX_COMPILER__Section5_Exercise2_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Coding_Exercie2.cpp || cmake_object_order_depends_target_Section5_Exercise2
+  DEP_FILE = CMakeFiles/Section5_Exercise2.dir/Coding_Exercie2.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section5_Exercise2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section5_Exercise2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section5_Exercise2
+
+
+#############################################
+# Link the executable Section5_Exercise2
+
+build Section5_Exercise2: CXX_EXECUTABLE_LINKER__Section5_Exercise2_Debug CMakeFiles/Section5_Exercise2.dir/Coding_Exercie2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section5_Exercise2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section5_Exercise2
+  TARGET_PDB = Section5_Exercise2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section5_Exercise3
+
+
+#############################################
+# Order-only phony target for Section5_Exercise3
+
+build cmake_object_order_depends_target_Section5_Exercise3: phony || CMakeFiles/Section5_Exercise3.dir
+
+build CMakeFiles/Section5_Exercise3.dir/Coding_Exercise3.cpp.o: CXX_COMPILER__Section5_Exercise3_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Coding_Exercise3.cpp || cmake_object_order_depends_target_Section5_Exercise3
+  DEP_FILE = CMakeFiles/Section5_Exercise3.dir/Coding_Exercise3.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section5_Exercise3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section5_Exercise3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section5_Exercise3
+
+
+#############################################
+# Link the executable Section5_Exercise3
+
+build Section5_Exercise3: CXX_EXECUTABLE_LINKER__Section5_Exercise3_Debug CMakeFiles/Section5_Exercise3.dir/Coding_Exercise3.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section5_Exercise3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section5_Exercise3
+  TARGET_PDB = Section5_Exercise3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section6_Exercise
+
+
+#############################################
+# Order-only phony target for Section6_Exercise
+
+build cmake_object_order_depends_target_Section6_Exercise: phony || CMakeFiles/Section6_Exercise.dir
+
+build CMakeFiles/Section6_Exercise.dir/Declaring_Variables4.cpp.o: CXX_COMPILER__Section6_Exercise_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Declaring_Variables4.cpp || cmake_object_order_depends_target_Section6_Exercise
+  DEP_FILE = CMakeFiles/Section6_Exercise.dir/Declaring_Variables4.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section6_Exercise.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section6_Exercise.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section6_Exercise
+
+
+#############################################
+# Link the executable Section6_Exercise
+
+build Section6_Exercise: CXX_EXECUTABLE_LINKER__Section6_Exercise_Debug CMakeFiles/Section6_Exercise.dir/Declaring_Variables4.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section6_Exercise.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section6_Exercise
+  TARGET_PDB = Section6_Exercise.dbg
 
 
 #############################################
@@ -198,7 +353,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file new_target new_target1
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise
 
 # =============================================================================
 # Built-in targets
