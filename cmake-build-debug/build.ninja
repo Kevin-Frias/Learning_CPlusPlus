@@ -381,6 +381,37 @@ build Sizeof_48: CXX_EXECUTABLE_LINKER__Sizeof_48_Debug CMakeFiles/Sizeof_48.dir
   TARGET_FILE = Sizeof_48
   TARGET_PDB = Sizeof_48.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Section6_50
+
+
+#############################################
+# Order-only phony target for Section6_50
+
+build cmake_object_order_depends_target_Section6_50: phony || CMakeFiles/Section6_50.dir
+
+build CMakeFiles/Section6_50.dir/Declaring_and_Using_constants.cpp.o: CXX_COMPILER__Section6_50_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Declaring_and_Using_constants.cpp || cmake_object_order_depends_target_Section6_50
+  DEP_FILE = CMakeFiles/Section6_50.dir/Declaring_and_Using_constants.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section6_50.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section6_50.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section6_50
+
+
+#############################################
+# Link the executable Section6_50
+
+build Section6_50: CXX_EXECUTABLE_LINKER__Section6_50_Debug CMakeFiles/Section6_50.dir/Declaring_and_Using_constants.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section6_50.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section6_50
+  TARGET_PDB = Section6_50.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -415,7 +446,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50
 
 # =============================================================================
 # Built-in targets
