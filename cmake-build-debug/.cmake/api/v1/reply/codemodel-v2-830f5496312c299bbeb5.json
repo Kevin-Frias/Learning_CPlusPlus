@@ -26,7 +26,8 @@
 						8,
 						9,
 						10,
-						11
+						11,
+						12
 					]
 				}
 			],
@@ -52,7 +53,8 @@
 						8,
 						9,
 						10,
-						11
+						11,
+						12
 					]
 				}
 			],
@@ -126,6 +128,13 @@
 					"id" : "Section6_Exercise::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Section6_Exercise-Debug-2ede57b73b6cff7b0445.json",
 					"name" : "Section6_Exercise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Section_challenge6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section_challenge6-Debug-94ddeaa83d9c497ee6ab.json",
+					"name" : "Section_challenge6",
 					"projectIndex" : 0
 				},
 				{

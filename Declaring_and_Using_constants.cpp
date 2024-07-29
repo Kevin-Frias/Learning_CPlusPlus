@@ -32,24 +32,23 @@
 using namespace std;
 
 int main() {
-    int number_of_rooms = 0;
-
-    int const price_per_room {30};
-    int tax = total_cost
-    int  total_cost_per_room  = number_of_rooms * price_per_room;
-
-    //Display the price per room
-    cout << "Price per room $" << price_per_room << endl;
-
-    //Prompting the user to enter the number of rooms.
-    cout << "Number of rooms: ";
+    //intro
+    cout << "Hello, welcome to Frank's Carpet Service" << endl;
+    cout << "How many rooms would you like cleaned?";
+    int number_of_rooms {0};
     cin >> number_of_rooms;
-    cout << number_of_rooms;
 
-    //Displaying the total_cost_per_room
-    cout <<"Cost: $" << total_cost_per_room << endl;
-
-
+    const double price_per_room {30};
+    const double sale_tax {0.06};
+    const int estimate_expiry {30};
+    cout << "\nEstimate for carpet cleaning service" << endl;
+    cout << "Number of rooms: " << number_of_rooms << endl;
+    cout << "Price per room: $" << price_per_room << endl;
+    cout << "Cost: $" << price_per_room * number_of_rooms << endl;
+    cout << "Tax: $" << price_per_room * number_of_rooms * sale_tax << endl;
+    cout << "=====================================" << endl;
+    cout << "Total estimate: $" << (price_per_room * number_of_rooms) + (price_per_room * number_of_rooms * sale_tax) << endl;
+    cout << "This estimate is valid for " << estimate_expiry << " days" << endl;
 
 
 

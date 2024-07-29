@@ -412,6 +412,37 @@ build Section6_50: CXX_EXECUTABLE_LINKER__Section6_50_Debug CMakeFiles/Section6_
   TARGET_FILE = Section6_50
   TARGET_PDB = Section6_50.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Section_challenge6
+
+
+#############################################
+# Order-only phony target for Section_challenge6
+
+build cmake_object_order_depends_target_Section_challenge6: phony || CMakeFiles/Section_challenge6.dir
+
+build CMakeFiles/Section_challenge6.dir/Section_Challenge6.cpp.o: CXX_COMPILER__Section_challenge6_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_Challenge6.cpp || cmake_object_order_depends_target_Section_challenge6
+  DEP_FILE = CMakeFiles/Section_challenge6.dir/Section_Challenge6.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section_challenge6.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section_challenge6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section_challenge6
+
+
+#############################################
+# Link the executable Section_challenge6
+
+build Section_challenge6: CXX_EXECUTABLE_LINKER__Section_challenge6_Debug CMakeFiles/Section_challenge6.dir/Section_Challenge6.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section_challenge6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section_challenge6
+  TARGET_PDB = Section_challenge6.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -446,7 +477,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6
 
 # =============================================================================
 # Built-in targets
