@@ -443,6 +443,68 @@ build Section_challenge6: CXX_EXECUTABLE_LINKER__Section_challenge6_Debug CMakeF
   TARGET_FILE = Section_challenge6
   TARGET_PDB = Section_challenge6.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Section_56Arrays
+
+
+#############################################
+# Order-only phony target for Section_56Arrays
+
+build cmake_object_order_depends_target_Section_56Arrays: phony || CMakeFiles/Section_56Arrays.dir
+
+build CMakeFiles/Section_56Arrays.dir/Accessing_Modifying_arrays_element.cpp.o: CXX_COMPILER__Section_56Arrays_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Accessing_Modifying_arrays_element.cpp || cmake_object_order_depends_target_Section_56Arrays
+  DEP_FILE = CMakeFiles/Section_56Arrays.dir/Accessing_Modifying_arrays_element.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section_56Arrays.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section_56Arrays.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section_56Arrays
+
+
+#############################################
+# Link the executable Section_56Arrays
+
+build Section_56Arrays: CXX_EXECUTABLE_LINKER__Section_56Arrays_Debug CMakeFiles/Section_56Arrays.dir/Accessing_Modifying_arrays_element.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section_56Arrays.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section_56Arrays
+  TARGET_PDB = Section_56Arrays.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section7_Exercise
+
+
+#############################################
+# Order-only phony target for Section7_Exercise
+
+build cmake_object_order_depends_target_Section7_Exercise: phony || CMakeFiles/Section7_Exercise.dir
+
+build CMakeFiles/Section7_Exercise.dir/Exercise5_Arrays.cpp.o: CXX_COMPILER__Section7_Exercise_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Exercise5_Arrays.cpp || cmake_object_order_depends_target_Section7_Exercise
+  DEP_FILE = CMakeFiles/Section7_Exercise.dir/Exercise5_Arrays.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section7_Exercise.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section7_Exercise.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section7_Exercise
+
+
+#############################################
+# Link the executable Section7_Exercise
+
+build Section7_Exercise: CXX_EXECUTABLE_LINKER__Section7_Exercise_Debug CMakeFiles/Section7_Exercise.dir/Exercise5_Arrays.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section7_Exercise.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section7_Exercise
+  TARGET_PDB = Section7_Exercise.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -477,7 +539,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise
 
 # =============================================================================
 # Built-in targets

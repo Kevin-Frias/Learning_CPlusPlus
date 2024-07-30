@@ -11,5 +11,7 @@
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Sizeof_48.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section6_50.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section_challenge6.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section_56Arrays.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section7_Exercise.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
