@@ -29,7 +29,9 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15,
+						16
 					]
 				}
 			],
@@ -58,7 +60,9 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15,
+						16
 					]
 				}
 			],
@@ -136,6 +140,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Section7_59Vectors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section7_59Vectors-Debug-99b657ede53b1833f7ae.json",
+					"name" : "Section7_59Vectors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Section7_Exercise::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Section7_Exercise-Debug-bebf1b1cc357095b08bb.json",
 					"name" : "Section7_Exercise",
@@ -146,6 +157,13 @@
 					"id" : "Section_56Arrays::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Section_56Arrays-Debug-70b1a7e53cf08acc0f5e.json",
 					"name" : "Section_56Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Section_Challenge7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section_Challenge7-Debug-661ac161b135425797e8.json",
+					"name" : "Section_Challenge7",
 					"projectIndex" : 0
 				},
 				{

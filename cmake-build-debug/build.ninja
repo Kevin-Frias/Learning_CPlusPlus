@@ -505,6 +505,68 @@ build Section7_Exercise: CXX_EXECUTABLE_LINKER__Section7_Exercise_Debug CMakeFil
   TARGET_FILE = Section7_Exercise
   TARGET_PDB = Section7_Exercise.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Section7_59Vectors
+
+
+#############################################
+# Order-only phony target for Section7_59Vectors
+
+build cmake_object_order_depends_target_Section7_59Vectors: phony || CMakeFiles/Section7_59Vectors.dir
+
+build CMakeFiles/Section7_59Vectors.dir/Accessing_and_Modifying_Vector.cpp.o: CXX_COMPILER__Section7_59Vectors_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Accessing_and_Modifying_Vector.cpp || cmake_object_order_depends_target_Section7_59Vectors
+  DEP_FILE = CMakeFiles/Section7_59Vectors.dir/Accessing_and_Modifying_Vector.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section7_59Vectors.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section7_59Vectors.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section7_59Vectors
+
+
+#############################################
+# Link the executable Section7_59Vectors
+
+build Section7_59Vectors: CXX_EXECUTABLE_LINKER__Section7_59Vectors_Debug CMakeFiles/Section7_59Vectors.dir/Accessing_and_Modifying_Vector.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section7_59Vectors.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section7_59Vectors
+  TARGET_PDB = Section7_59Vectors.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section_Challenge7
+
+
+#############################################
+# Order-only phony target for Section_Challenge7
+
+build cmake_object_order_depends_target_Section_Challenge7: phony || CMakeFiles/Section_Challenge7.dir
+
+build CMakeFiles/Section_Challenge7.dir/Section_Challange_7.cpp.o: CXX_COMPILER__Section_Challenge7_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_Challange_7.cpp || cmake_object_order_depends_target_Section_Challenge7
+  DEP_FILE = CMakeFiles/Section_Challenge7.dir/Section_Challange_7.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section_Challenge7.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section_Challenge7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section_Challenge7
+
+
+#############################################
+# Link the executable Section_Challenge7
+
+build Section_Challenge7: CXX_EXECUTABLE_LINKER__Section_Challenge7_Debug CMakeFiles/Section_Challenge7.dir/Section_Challange_7.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section_Challenge7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section_Challenge7
+  TARGET_PDB = Section_Challenge7.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -539,7 +601,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7
 
 # =============================================================================
 # Built-in targets
