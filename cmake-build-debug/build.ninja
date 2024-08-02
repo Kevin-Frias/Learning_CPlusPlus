@@ -567,6 +567,99 @@ build Section_Challenge7: CXX_EXECUTABLE_LINKER__Section_Challenge7_Debug CMakeF
   TARGET_FILE = Section_Challenge7
   TARGET_PDB = Section_Challenge7.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target The_Assignment_Operator
+
+
+#############################################
+# Order-only phony target for The_Assignment_Operator
+
+build cmake_object_order_depends_target_The_Assignment_Operator: phony || CMakeFiles/The_Assignment_Operator.dir
+
+build CMakeFiles/The_Assignment_Operator.dir/The_Assignment_Operator.cpp.o: CXX_COMPILER__The_Assignment_Operator_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/The_Assignment_Operator.cpp || cmake_object_order_depends_target_The_Assignment_Operator
+  DEP_FILE = CMakeFiles/The_Assignment_Operator.dir/The_Assignment_Operator.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/The_Assignment_Operator.dir
+  OBJECT_FILE_DIR = CMakeFiles/The_Assignment_Operator.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target The_Assignment_Operator
+
+
+#############################################
+# Link the executable The_Assignment_Operator
+
+build The_Assignment_Operator: CXX_EXECUTABLE_LINKER__The_Assignment_Operator_Debug CMakeFiles/The_Assignment_Operator.dir/The_Assignment_Operator.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/The_Assignment_Operator.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = The_Assignment_Operator
+  TARGET_PDB = The_Assignment_Operator.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Arithmetic_Operators
+
+
+#############################################
+# Order-only phony target for Arithmetic_Operators
+
+build cmake_object_order_depends_target_Arithmetic_Operators: phony || CMakeFiles/Arithmetic_Operators.dir
+
+build CMakeFiles/Arithmetic_Operators.dir/Arithmetic_Operators.cpp.o: CXX_COMPILER__Arithmetic_Operators_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Arithmetic_Operators.cpp || cmake_object_order_depends_target_Arithmetic_Operators
+  DEP_FILE = CMakeFiles/Arithmetic_Operators.dir/Arithmetic_Operators.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Arithmetic_Operators.dir
+  OBJECT_FILE_DIR = CMakeFiles/Arithmetic_Operators.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Arithmetic_Operators
+
+
+#############################################
+# Link the executable Arithmetic_Operators
+
+build Arithmetic_Operators: CXX_EXECUTABLE_LINKER__Arithmetic_Operators_Debug CMakeFiles/Arithmetic_Operators.dir/Arithmetic_Operators.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Arithmetic_Operators.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Arithmetic_Operators
+  TARGET_PDB = Arithmetic_Operators.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Euros
+
+
+#############################################
+# Order-only phony target for Euros
+
+build cmake_object_order_depends_target_Euros: phony || CMakeFiles/Euros.dir
+
+build CMakeFiles/Euros.dir/Euros_Project.cpp.o: CXX_COMPILER__Euros_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Euros_Project.cpp || cmake_object_order_depends_target_Euros
+  DEP_FILE = CMakeFiles/Euros.dir/Euros_Project.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Euros.dir
+  OBJECT_FILE_DIR = CMakeFiles/Euros.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Euros
+
+
+#############################################
+# Link the executable Euros
+
+build Euros: CXX_EXECUTABLE_LINKER__Euros_Debug CMakeFiles/Euros.dir/Euros_Project.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Euros.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Euros
+  TARGET_PDB = Euros.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -601,7 +694,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros
 
 # =============================================================================
 # Built-in targets

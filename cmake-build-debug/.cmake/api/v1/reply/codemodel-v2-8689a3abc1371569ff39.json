@@ -31,7 +31,10 @@
 						13,
 						14,
 						15,
-						16
+						16,
+						17,
+						18,
+						19
 					]
 				}
 			],
@@ -62,12 +65,29 @@
 						13,
 						14,
 						15,
-						16
+						16,
+						17,
+						18,
+						19
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arithmetic_Operators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arithmetic_Operators-Debug-d82b78b6efae45940337.json",
+					"name" : "Arithmetic_Operators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Euros::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Euros-Debug-5c16a768cb56259f0618.json",
+					"name" : "Euros",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "First_Program::@6890427a1f51a3e7e1df",
@@ -185,6 +205,13 @@
 					"id" : "Test_file::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Test_file-Debug-72e334a733e8f5ce5381.json",
 					"name" : "Test_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "The_Assignment_Operator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-The_Assignment_Operator-Debug-ff7c54db8aa4aa2a6c45.json",
+					"name" : "The_Assignment_Operator",
 					"projectIndex" : 0
 				}
 			]
