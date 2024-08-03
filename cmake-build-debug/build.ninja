@@ -660,6 +660,99 @@ build Euros: CXX_EXECUTABLE_LINKER__Euros_Debug CMakeFiles/Euros.dir/Euros_Proje
   TARGET_FILE = Euros
   TARGET_PDB = Euros.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise7_section8
+
+
+#############################################
+# Order-only phony target for Coding_Exercise7_section8
+
+build cmake_object_order_depends_target_Coding_Exercise7_section8: phony || CMakeFiles/Coding_Exercise7_section8.dir
+
+build CMakeFiles/Coding_Exercise7_section8.dir/Coding_Exercise7_section8.cpp.o: CXX_COMPILER__Coding_Exercise7_section8_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Coding_Exercise7_section8.cpp || cmake_object_order_depends_target_Coding_Exercise7_section8
+  DEP_FILE = CMakeFiles/Coding_Exercise7_section8.dir/Coding_Exercise7_section8.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise7_section8.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise7_section8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise7_section8
+
+
+#############################################
+# Link the executable Coding_Exercise7_section8
+
+build Coding_Exercise7_section8: CXX_EXECUTABLE_LINKER__Coding_Exercise7_section8_Debug CMakeFiles/Coding_Exercise7_section8.dir/Coding_Exercise7_section8.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise7_section8.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise7_section8
+  TARGET_PDB = Coding_Exercise7_section8.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise_8_Section_8
+
+
+#############################################
+# Order-only phony target for Coding_Exercise_8_Section_8
+
+build cmake_object_order_depends_target_Coding_Exercise_8_Section_8: phony || CMakeFiles/Coding_Exercise_8_Section_8.dir
+
+build CMakeFiles/Coding_Exercise_8_Section_8.dir/Coding_Exercise_8_Section_8.cpp.o: CXX_COMPILER__Coding_Exercise_8_Section_8_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Coding_Exercise_8_Section_8.cpp || cmake_object_order_depends_target_Coding_Exercise_8_Section_8
+  DEP_FILE = CMakeFiles/Coding_Exercise_8_Section_8.dir/Coding_Exercise_8_Section_8.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise_8_Section_8.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise_8_Section_8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise_8_Section_8
+
+
+#############################################
+# Link the executable Coding_Exercise_8_Section_8
+
+build Coding_Exercise_8_Section_8: CXX_EXECUTABLE_LINKER__Coding_Exercise_8_Section_8_Debug CMakeFiles/Coding_Exercise_8_Section_8.dir/Coding_Exercise_8_Section_8.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise_8_Section_8.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise_8_Section_8
+  TARGET_PDB = Coding_Exercise_8_Section_8.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Increment_and_Decrement_Operators
+
+
+#############################################
+# Order-only phony target for Increment_and_Decrement_Operators
+
+build cmake_object_order_depends_target_Increment_and_Decrement_Operators: phony || CMakeFiles/Increment_and_Decrement_Operators.dir
+
+build CMakeFiles/Increment_and_Decrement_Operators.dir/Increment_and_Decrement_Operators.cpp.o: CXX_COMPILER__Increment_and_Decrement_Operators_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Increment_and_Decrement_Operators.cpp || cmake_object_order_depends_target_Increment_and_Decrement_Operators
+  DEP_FILE = CMakeFiles/Increment_and_Decrement_Operators.dir/Increment_and_Decrement_Operators.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Increment_and_Decrement_Operators.dir
+  OBJECT_FILE_DIR = CMakeFiles/Increment_and_Decrement_Operators.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Increment_and_Decrement_Operators
+
+
+#############################################
+# Link the executable Increment_and_Decrement_Operators
+
+build Increment_and_Decrement_Operators: CXX_EXECUTABLE_LINKER__Increment_and_Decrement_Operators_Debug CMakeFiles/Increment_and_Decrement_Operators.dir/Increment_and_Decrement_Operators.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Increment_and_Decrement_Operators.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Increment_and_Decrement_Operators
+  TARGET_PDB = Increment_and_Decrement_Operators.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -694,7 +787,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators
 
 # =============================================================================
 # Built-in targets
