@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "The_Assignment_Operator"
+			"path" : "Testing_for_Equality"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 23,
+				"line" : 31,
 				"parent" : 0
 			}
 		]
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "The_Assignment_Operator::@6890427a1f51a3e7e1df",
+	"id" : "Testing_for_Equality::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "The_Assignment_Operator",
-	"nameOnDisk" : "The_Assignment_Operator",
+	"name" : "Testing_for_Equality",
+	"nameOnDisk" : "Testing_for_Equality",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "The_Assignment_Operator.cpp",
+			"path" : "Section_8/Testing_for_Equality.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -37,7 +37,9 @@
 						19,
 						20,
 						21,
-						22
+						22,
+						23,
+						24
 					]
 				}
 			],
@@ -74,7 +76,9 @@
 						19,
 						20,
 						21,
-						22
+						22,
+						23,
+						24
 					]
 				}
 			],
@@ -83,21 +87,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Arithmetic_Operators::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Arithmetic_Operators-Debug-d82b78b6efae45940337.json",
+					"jsonFile" : "target-Arithmetic_Operators-Debug-b5d9b047bea72f4edc49.json",
 					"name" : "Arithmetic_Operators",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "Coding_Exercise7_section8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Coding_Exercise7_section8-Debug-4d4065ca85262125a826.json",
+					"jsonFile" : "target-Coding_Exercise7_section8-Debug-6011d26c79c09d5ca6a1.json",
 					"name" : "Coding_Exercise7_section8",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "Coding_Exercise_8_Section_8::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Coding_Exercise_8_Section_8-Debug-eac4db2b6eebd5f9d19d.json",
+					"jsonFile" : "target-Coding_Exercise_8_Section_8-Debug-b7ff029e5cda6b69296e.json",
 					"name" : "Coding_Exercise_8_Section_8",
 					"projectIndex" : 0
 				},
@@ -118,8 +122,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Increment_and_Decrement_Operators::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Increment_and_Decrement_Operators-Debug-b107734732e7f9640e39.json",
+					"jsonFile" : "target-Increment_and_Decrement_Operators-Debug-186315af20dfc5e236b8.json",
 					"name" : "Increment_and_Decrement_Operators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Mixed_Expressioins_and_Conversions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mixed_Expressioins_and_Conversions-Debug-1c42b30990244143e60a.json",
+					"name" : "Mixed_Expressioins_and_Conversions",
 					"projectIndex" : 0
 				},
 				{
@@ -236,8 +247,15 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Testing_for_Equality::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Testing_for_Equality-Debug-59fb6075581dbc4b706d.json",
+					"name" : "Testing_for_Equality",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "The_Assignment_Operator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-The_Assignment_Operator-Debug-ff7c54db8aa4aa2a6c45.json",
+					"jsonFile" : "target-The_Assignment_Operator-Debug-42ffc9aa91c5ff1e8480.json",
 					"name" : "The_Assignment_Operator",
 					"projectIndex" : 0
 				}

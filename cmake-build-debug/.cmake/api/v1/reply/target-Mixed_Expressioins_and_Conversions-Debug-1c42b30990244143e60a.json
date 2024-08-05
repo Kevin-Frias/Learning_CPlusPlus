@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Coding_Exercise_8_Section_8"
+			"path" : "Mixed_Expressioins_and_Conversions"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 27,
+				"line" : 29,
 				"parent" : 0
 			}
 		]
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "Coding_Exercise_8_Section_8::@6890427a1f51a3e7e1df",
+	"id" : "Mixed_Expressioins_and_Conversions::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Coding_Exercise_8_Section_8",
-	"nameOnDisk" : "Coding_Exercise_8_Section_8",
+	"name" : "Mixed_Expressioins_and_Conversions",
+	"nameOnDisk" : "Mixed_Expressioins_and_Conversions",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Coding_Exercise_8_Section_8.cpp",
+			"path" : "Section_8/Mixed_Expressioins_and_Conversions.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
