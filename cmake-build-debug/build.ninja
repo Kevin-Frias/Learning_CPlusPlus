@@ -815,6 +815,130 @@ build Testing_for_Equality: CXX_EXECUTABLE_LINKER__Testing_for_Equality_Debug CM
   TARGET_FILE = Testing_for_Equality
   TARGET_PDB = Testing_for_Equality.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Relational_Operators
+
+
+#############################################
+# Order-only phony target for Relational_Operators
+
+build cmake_object_order_depends_target_Relational_Operators: phony || CMakeFiles/Relational_Operators.dir
+
+build CMakeFiles/Relational_Operators.dir/Section_8/Relational_Operators.cpp.o: CXX_COMPILER__Relational_Operators_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_8/Relational_Operators.cpp || cmake_object_order_depends_target_Relational_Operators
+  DEP_FILE = CMakeFiles/Relational_Operators.dir/Section_8/Relational_Operators.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Relational_Operators.dir
+  OBJECT_FILE_DIR = CMakeFiles/Relational_Operators.dir/Section_8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Relational_Operators
+
+
+#############################################
+# Link the executable Relational_Operators
+
+build Relational_Operators: CXX_EXECUTABLE_LINKER__Relational_Operators_Debug CMakeFiles/Relational_Operators.dir/Section_8/Relational_Operators.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Relational_Operators.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Relational_Operators
+  TARGET_PDB = Relational_Operators.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Logical_Operators
+
+
+#############################################
+# Order-only phony target for Logical_Operators
+
+build cmake_object_order_depends_target_Logical_Operators: phony || CMakeFiles/Logical_Operators.dir
+
+build CMakeFiles/Logical_Operators.dir/Section_8/Logical_Operators.cpp.o: CXX_COMPILER__Logical_Operators_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_8/Logical_Operators.cpp || cmake_object_order_depends_target_Logical_Operators
+  DEP_FILE = CMakeFiles/Logical_Operators.dir/Section_8/Logical_Operators.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Logical_Operators.dir
+  OBJECT_FILE_DIR = CMakeFiles/Logical_Operators.dir/Section_8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Logical_Operators
+
+
+#############################################
+# Link the executable Logical_Operators
+
+build Logical_Operators: CXX_EXECUTABLE_LINKER__Logical_Operators_Debug CMakeFiles/Logical_Operators.dir/Section_8/Logical_Operators.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Logical_Operators.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Logical_Operators
+  TARGET_PDB = Logical_Operators.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise_9
+
+
+#############################################
+# Order-only phony target for Coding_Exercise_9
+
+build cmake_object_order_depends_target_Coding_Exercise_9: phony || CMakeFiles/Coding_Exercise_9.dir
+
+build CMakeFiles/Coding_Exercise_9.dir/Section_8/Coding_Exercise_9.cpp.o: CXX_COMPILER__Coding_Exercise_9_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_8/Coding_Exercise_9.cpp || cmake_object_order_depends_target_Coding_Exercise_9
+  DEP_FILE = CMakeFiles/Coding_Exercise_9.dir/Section_8/Coding_Exercise_9.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise_9.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise_9.dir/Section_8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise_9
+
+
+#############################################
+# Link the executable Coding_Exercise_9
+
+build Coding_Exercise_9: CXX_EXECUTABLE_LINKER__Coding_Exercise_9_Debug CMakeFiles/Coding_Exercise_9.dir/Section_8/Coding_Exercise_9.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise_9.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise_9
+  TARGET_PDB = Coding_Exercise_9.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Section_Challenge8
+
+
+#############################################
+# Order-only phony target for Section_Challenge8
+
+build cmake_object_order_depends_target_Section_Challenge8: phony || CMakeFiles/Section_Challenge8.dir
+
+build CMakeFiles/Section_Challenge8.dir/Section_8/Section_Challenge8.cpp.o: CXX_COMPILER__Section_Challenge8_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_8/Section_Challenge8.cpp || cmake_object_order_depends_target_Section_Challenge8
+  DEP_FILE = CMakeFiles/Section_Challenge8.dir/Section_8/Section_Challenge8.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Section_Challenge8.dir
+  OBJECT_FILE_DIR = CMakeFiles/Section_Challenge8.dir/Section_8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Section_Challenge8
+
+
+#############################################
+# Link the executable Section_Challenge8
+
+build Section_Challenge8: CXX_EXECUTABLE_LINKER__Section_Challenge8_Debug CMakeFiles/Section_Challenge8.dir/Section_8/Section_Challenge8.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Section_Challenge8.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Section_Challenge8
+  TARGET_PDB = Section_Challenge8.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -849,7 +973,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8
 
 # =============================================================================
 # Built-in targets

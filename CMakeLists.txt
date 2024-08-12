@@ -29,3 +29,7 @@ add_executable(Increment_and_Decrement_Operators Section_8/Increment_and_Decreme
 add_executable(Mixed_Expressioins_and_Conversions Section_8/Mixed_Expressioins_and_Conversions.cpp)
 
 add_executable(Testing_for_Equality Section_8/Testing_for_Equality.cpp)
+add_executable(Relational_Operators Section_8/Relational_Operators.cpp)
+add_executable(Logical_Operators Section_8/Logical_Operators.cpp)
+add_executable(Coding_Exercise_9 Section_8/Coding_Exercise_9.cpp)
+add_executable(Section_Challenge8 Section_8/Section_Challenge8.cpp)

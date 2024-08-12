@@ -23,5 +23,9 @@
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Increment_and_Decrement_Operators.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Mixed_Expressioins_and_Conversions.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Testing_for_Equality.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Relational_Operators.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Logical_Operators.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise_9.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section_Challenge8.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -39,7 +39,11 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25,
+						26,
+						27,
+						28
 					]
 				}
 			],
@@ -78,7 +82,11 @@
 						21,
 						22,
 						23,
-						24
+						24,
+						25,
+						26,
+						27,
+						28
 					]
 				}
 			],
@@ -107,6 +115,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Coding_Exercise_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Coding_Exercise_9-Debug-6c02956ecadb1fce886d.json",
+					"name" : "Coding_Exercise_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Euros::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Euros-Debug-5c16a768cb56259f0618.json",
 					"name" : "Euros",
@@ -128,9 +143,23 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Logical_Operators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Logical_Operators-Debug-fc192f5ca2495d6dec60.json",
+					"name" : "Logical_Operators",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Mixed_Expressioins_and_Conversions::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Mixed_Expressioins_and_Conversions-Debug-1c42b30990244143e60a.json",
 					"name" : "Mixed_Expressioins_and_Conversions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Relational_Operators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Relational_Operators-Debug-f12e7a648d667ab99a39.json",
+					"name" : "Relational_Operators",
 					"projectIndex" : 0
 				},
 				{
@@ -222,6 +251,13 @@
 					"id" : "Section_Challenge7::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Section_Challenge7-Debug-661ac161b135425797e8.json",
 					"name" : "Section_Challenge7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Section_Challenge8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section_Challenge8-Debug-7a2197a69f4b4d8b3668.json",
+					"name" : "Section_Challenge8",
 					"projectIndex" : 0
 				},
 				{
