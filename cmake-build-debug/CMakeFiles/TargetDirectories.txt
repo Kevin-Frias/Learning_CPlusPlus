@@ -27,5 +27,9 @@
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Logical_Operators.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise_9.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section_Challenge8.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section_9.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section9.2.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section9_coding_exercise10.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise11.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
