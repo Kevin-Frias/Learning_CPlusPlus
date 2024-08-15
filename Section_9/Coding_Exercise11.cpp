@@ -20,5 +20,9 @@ int main(){
 
     if (user_age >= minimal_age_to_drive){
         cout << "Yes - you can drive\n";
+    } else {
+        cout << "Sorry, come back in " << minimal_age_to_drive - user_age << " years."  << endl;
+
     }
+
 }
