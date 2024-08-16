@@ -31,5 +31,10 @@
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section9.2.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Section9_coding_exercise10.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise11.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Nested_if_statement.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Shipping_project.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise12.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Switch_Case_Statement.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/SwitchEnum.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1063,6 +1063,161 @@ build Coding_Exercise11: CXX_EXECUTABLE_LINKER__Coding_Exercise11_Debug CMakeFil
   TARGET_FILE = Coding_Exercise11
   TARGET_PDB = Coding_Exercise11.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Nested_if_statement
+
+
+#############################################
+# Order-only phony target for Nested_if_statement
+
+build cmake_object_order_depends_target_Nested_if_statement: phony || CMakeFiles/Nested_if_statement.dir
+
+build CMakeFiles/Nested_if_statement.dir/Section_9/Nested_if_statement.cpp.o: CXX_COMPILER__Nested_if_statement_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Nested_if_statement.cpp || cmake_object_order_depends_target_Nested_if_statement
+  DEP_FILE = CMakeFiles/Nested_if_statement.dir/Section_9/Nested_if_statement.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Nested_if_statement.dir
+  OBJECT_FILE_DIR = CMakeFiles/Nested_if_statement.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Nested_if_statement
+
+
+#############################################
+# Link the executable Nested_if_statement
+
+build Nested_if_statement: CXX_EXECUTABLE_LINKER__Nested_if_statement_Debug CMakeFiles/Nested_if_statement.dir/Section_9/Nested_if_statement.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Nested_if_statement.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Nested_if_statement
+  TARGET_PDB = Nested_if_statement.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Shipping_project
+
+
+#############################################
+# Order-only phony target for Shipping_project
+
+build cmake_object_order_depends_target_Shipping_project: phony || CMakeFiles/Shipping_project.dir
+
+build CMakeFiles/Shipping_project.dir/Section_9/Shipping_project.cpp.o: CXX_COMPILER__Shipping_project_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Shipping_project.cpp || cmake_object_order_depends_target_Shipping_project
+  DEP_FILE = CMakeFiles/Shipping_project.dir/Section_9/Shipping_project.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Shipping_project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Shipping_project.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Shipping_project
+
+
+#############################################
+# Link the executable Shipping_project
+
+build Shipping_project: CXX_EXECUTABLE_LINKER__Shipping_project_Debug CMakeFiles/Shipping_project.dir/Section_9/Shipping_project.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Shipping_project.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Shipping_project
+  TARGET_PDB = Shipping_project.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise12
+
+
+#############################################
+# Order-only phony target for Coding_Exercise12
+
+build cmake_object_order_depends_target_Coding_Exercise12: phony || CMakeFiles/Coding_Exercise12.dir
+
+build CMakeFiles/Coding_Exercise12.dir/Section_9/Coding_Exercise12.cpp.o: CXX_COMPILER__Coding_Exercise12_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Coding_Exercise12.cpp || cmake_object_order_depends_target_Coding_Exercise12
+  DEP_FILE = CMakeFiles/Coding_Exercise12.dir/Section_9/Coding_Exercise12.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise12.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise12.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise12
+
+
+#############################################
+# Link the executable Coding_Exercise12
+
+build Coding_Exercise12: CXX_EXECUTABLE_LINKER__Coding_Exercise12_Debug CMakeFiles/Coding_Exercise12.dir/Section_9/Coding_Exercise12.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise12.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise12
+  TARGET_PDB = Coding_Exercise12.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Switch_Case_Statement
+
+
+#############################################
+# Order-only phony target for Switch_Case_Statement
+
+build cmake_object_order_depends_target_Switch_Case_Statement: phony || CMakeFiles/Switch_Case_Statement.dir
+
+build CMakeFiles/Switch_Case_Statement.dir/Section_9/Switch_Case_Statement.cpp.o: CXX_COMPILER__Switch_Case_Statement_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Switch_Case_Statement.cpp || cmake_object_order_depends_target_Switch_Case_Statement
+  DEP_FILE = CMakeFiles/Switch_Case_Statement.dir/Section_9/Switch_Case_Statement.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Switch_Case_Statement.dir
+  OBJECT_FILE_DIR = CMakeFiles/Switch_Case_Statement.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Switch_Case_Statement
+
+
+#############################################
+# Link the executable Switch_Case_Statement
+
+build Switch_Case_Statement: CXX_EXECUTABLE_LINKER__Switch_Case_Statement_Debug CMakeFiles/Switch_Case_Statement.dir/Section_9/Switch_Case_Statement.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Switch_Case_Statement.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Switch_Case_Statement
+  TARGET_PDB = Switch_Case_Statement.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SwitchEnum
+
+
+#############################################
+# Order-only phony target for SwitchEnum
+
+build cmake_object_order_depends_target_SwitchEnum: phony || CMakeFiles/SwitchEnum.dir
+
+build CMakeFiles/SwitchEnum.dir/Section_9/SwitchEnum.cpp.o: CXX_COMPILER__SwitchEnum_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/SwitchEnum.cpp || cmake_object_order_depends_target_SwitchEnum
+  DEP_FILE = CMakeFiles/SwitchEnum.dir/Section_9/SwitchEnum.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/SwitchEnum.dir
+  OBJECT_FILE_DIR = CMakeFiles/SwitchEnum.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SwitchEnum
+
+
+#############################################
+# Link the executable SwitchEnum
+
+build SwitchEnum: CXX_EXECUTABLE_LINKER__SwitchEnum_Debug CMakeFiles/SwitchEnum.dir/Section_9/SwitchEnum.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/SwitchEnum.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = SwitchEnum
+  TARGET_PDB = SwitchEnum.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1097,7 +1252,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8 Section_9 Section9.2 Section9_coding_exercise10 Coding_Exercise11
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8 Section_9 Section9.2 Section9_coding_exercise10 Coding_Exercise11 Nested_if_statement Shipping_project Coding_Exercise12 Switch_Case_Statement SwitchEnum
 
 # =============================================================================
 # Built-in targets
