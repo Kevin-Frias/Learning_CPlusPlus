@@ -1218,6 +1218,99 @@ build SwitchEnum: CXX_EXECUTABLE_LINKER__SwitchEnum_Debug CMakeFiles/SwitchEnum.
   TARGET_FILE = SwitchEnum
   TARGET_PDB = SwitchEnum.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise13
+
+
+#############################################
+# Order-only phony target for Coding_Exercise13
+
+build cmake_object_order_depends_target_Coding_Exercise13: phony || CMakeFiles/Coding_Exercise13.dir
+
+build CMakeFiles/Coding_Exercise13.dir/Section_9/Coding_Exercise13.cpp.o: CXX_COMPILER__Coding_Exercise13_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Coding_Exercise13.cpp || cmake_object_order_depends_target_Coding_Exercise13
+  DEP_FILE = CMakeFiles/Coding_Exercise13.dir/Section_9/Coding_Exercise13.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise13.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise13.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise13
+
+
+#############################################
+# Link the executable Coding_Exercise13
+
+build Coding_Exercise13: CXX_EXECUTABLE_LINKER__Coding_Exercise13_Debug CMakeFiles/Coding_Exercise13.dir/Section_9/Coding_Exercise13.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise13.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise13
+  TARGET_PDB = Coding_Exercise13.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Coditional_Operator
+
+
+#############################################
+# Order-only phony target for Coditional_Operator
+
+build cmake_object_order_depends_target_Coditional_Operator: phony || CMakeFiles/Coditional_Operator.dir
+
+build CMakeFiles/Coditional_Operator.dir/Section_9/Coditional_Operator.cpp.o: CXX_COMPILER__Coditional_Operator_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Coditional_Operator.cpp || cmake_object_order_depends_target_Coditional_Operator
+  DEP_FILE = CMakeFiles/Coditional_Operator.dir/Section_9/Coditional_Operator.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coditional_Operator.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coditional_Operator.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coditional_Operator
+
+
+#############################################
+# Link the executable Coditional_Operator
+
+build Coditional_Operator: CXX_EXECUTABLE_LINKER__Coditional_Operator_Debug CMakeFiles/Coditional_Operator.dir/Section_9/Coditional_Operator.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coditional_Operator.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coditional_Operator
+  TARGET_PDB = Coditional_Operator.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target For_loop
+
+
+#############################################
+# Order-only phony target for For_loop
+
+build cmake_object_order_depends_target_For_loop: phony || CMakeFiles/For_loop.dir
+
+build CMakeFiles/For_loop.dir/Section_9/For_loop.cpp.o: CXX_COMPILER__For_loop_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/For_loop.cpp || cmake_object_order_depends_target_For_loop
+  DEP_FILE = CMakeFiles/For_loop.dir/Section_9/For_loop.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/For_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/For_loop.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target For_loop
+
+
+#############################################
+# Link the executable For_loop
+
+build For_loop: CXX_EXECUTABLE_LINKER__For_loop_Debug CMakeFiles/For_loop.dir/Section_9/For_loop.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/For_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = For_loop
+  TARGET_PDB = For_loop.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1252,7 +1345,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8 Section_9 Section9.2 Section9_coding_exercise10 Coding_Exercise11 Nested_if_statement Shipping_project Coding_Exercise12 Switch_Case_Statement SwitchEnum
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8 Section_9 Section9.2 Section9_coding_exercise10 Coding_Exercise11 Nested_if_statement Shipping_project Coding_Exercise12 Switch_Case_Statement SwitchEnum Coding_Exercise13 Coditional_Operator For_loop
 
 # =============================================================================
 # Built-in targets

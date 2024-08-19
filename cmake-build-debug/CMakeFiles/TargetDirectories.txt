@@ -36,5 +36,8 @@
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise12.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Switch_Case_Statement.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/SwitchEnum.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coding_Exercise13.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/Coditional_Operator.dir
+/Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/For_loop.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
