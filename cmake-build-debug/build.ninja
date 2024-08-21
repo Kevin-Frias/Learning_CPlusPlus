@@ -1311,6 +1311,130 @@ build For_loop: CXX_EXECUTABLE_LINKER__For_loop_Debug CMakeFiles/For_loop.dir/Se
   TARGET_FILE = For_loop
   TARGET_PDB = For_loop.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise14
+
+
+#############################################
+# Order-only phony target for Coding_Exercise14
+
+build cmake_object_order_depends_target_Coding_Exercise14: phony || CMakeFiles/Coding_Exercise14.dir
+
+build CMakeFiles/Coding_Exercise14.dir/Section_9/Coding_Exercise14.cpp.o: CXX_COMPILER__Coding_Exercise14_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Coding_Exercise14.cpp || cmake_object_order_depends_target_Coding_Exercise14
+  DEP_FILE = CMakeFiles/Coding_Exercise14.dir/Section_9/Coding_Exercise14.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise14.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise14.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise14
+
+
+#############################################
+# Link the executable Coding_Exercise14
+
+build Coding_Exercise14: CXX_EXECUTABLE_LINKER__Coding_Exercise14_Debug CMakeFiles/Coding_Exercise14.dir/Section_9/Coding_Exercise14.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise14.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise14
+  TARGET_PDB = Coding_Exercise14.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Range_based_for_loop
+
+
+#############################################
+# Order-only phony target for Range_based_for_loop
+
+build cmake_object_order_depends_target_Range_based_for_loop: phony || CMakeFiles/Range_based_for_loop.dir
+
+build CMakeFiles/Range_based_for_loop.dir/Section_9/Range_based_for_loop.cpp.o: CXX_COMPILER__Range_based_for_loop_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Range_based_for_loop.cpp || cmake_object_order_depends_target_Range_based_for_loop
+  DEP_FILE = CMakeFiles/Range_based_for_loop.dir/Section_9/Range_based_for_loop.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Range_based_for_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/Range_based_for_loop.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Range_based_for_loop
+
+
+#############################################
+# Link the executable Range_based_for_loop
+
+build Range_based_for_loop: CXX_EXECUTABLE_LINKER__Range_based_for_loop_Debug CMakeFiles/Range_based_for_loop.dir/Section_9/Range_based_for_loop.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Range_based_for_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Range_based_for_loop
+  TARGET_PDB = Range_based_for_loop.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Coding_Exercise_15
+
+
+#############################################
+# Order-only phony target for Coding_Exercise_15
+
+build cmake_object_order_depends_target_Coding_Exercise_15: phony || CMakeFiles/Coding_Exercise_15.dir
+
+build CMakeFiles/Coding_Exercise_15.dir/Section_9/Coding_Exercise_15.cpp.o: CXX_COMPILER__Coding_Exercise_15_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/Coding_Exercise_15.cpp || cmake_object_order_depends_target_Coding_Exercise_15
+  DEP_FILE = CMakeFiles/Coding_Exercise_15.dir/Section_9/Coding_Exercise_15.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Coding_Exercise_15.dir
+  OBJECT_FILE_DIR = CMakeFiles/Coding_Exercise_15.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Coding_Exercise_15
+
+
+#############################################
+# Link the executable Coding_Exercise_15
+
+build Coding_Exercise_15: CXX_EXECUTABLE_LINKER__Coding_Exercise_15_Debug CMakeFiles/Coding_Exercise_15.dir/Section_9/Coding_Exercise_15.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/Coding_Exercise_15.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Coding_Exercise_15
+  TARGET_PDB = Coding_Exercise_15.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target While_loop
+
+
+#############################################
+# Order-only phony target for While_loop
+
+build cmake_object_order_depends_target_While_loop: phony || CMakeFiles/While_loop.dir
+
+build CMakeFiles/While_loop.dir/Section_9/While_loop.cpp.o: CXX_COMPILER__While_loop_unscanned_Debug /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/Section_9/While_loop.cpp || cmake_object_order_depends_target_While_loop
+  DEP_FILE = CMakeFiles/While_loop.dir/Section_9/While_loop.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/While_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles/While_loop.dir/Section_9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target While_loop
+
+
+#############################################
+# Link the executable While_loop
+
+build While_loop: CXX_EXECUTABLE_LINKER__While_loop_Debug CMakeFiles/While_loop.dir/Section_9/While_loop.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/While_loop.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = While_loop
+  TARGET_PDB = While_loop.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1345,7 +1469,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kevinfriascomputer/Downloads/Coding/C++_Github_Desktop/C-/cmake-build-debug
 
-build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8 Section_9 Section9.2 Section9_coding_exercise10 Coding_Exercise11 Nested_if_statement Shipping_project Coding_Exercise12 Switch_Case_Statement SwitchEnum Coding_Exercise13 Coditional_Operator For_loop
+build all: phony First_Program Test_file Section4_29 Section4_35 Section5_42 Section5_Exercise Section5_Exercise2 Section5_Exercise3 Section6_Exercise Section6_47 Sizeof_48 Section6_50 Section_challenge6 Section_56Arrays Section7_Exercise Section7_59Vectors Section_Challenge7 The_Assignment_Operator Arithmetic_Operators Euros Coding_Exercise7_section8 Coding_Exercise_8_Section_8 Increment_and_Decrement_Operators Mixed_Expressioins_and_Conversions Testing_for_Equality Relational_Operators Logical_Operators Coding_Exercise_9 Section_Challenge8 Section_9 Section9.2 Section9_coding_exercise10 Coding_Exercise11 Nested_if_statement Shipping_project Coding_Exercise12 Switch_Case_Statement SwitchEnum Coding_Exercise13 Coditional_Operator For_loop Coding_Exercise14 Range_based_for_loop Coding_Exercise_15 While_loop
 
 # =============================================================================
 # Built-in targets
